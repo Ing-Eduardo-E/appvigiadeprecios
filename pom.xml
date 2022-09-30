@@ -72,7 +72,7 @@
                 <artifactId>heroku-maven-plugin</artifactId> 
                 <version>3.0.4</version>
                 <configuration> 
-                    <appName>blooming-dawn-26827</appName> 
+                    <appName>radiant-falls-80584</appName> 
                     <includeTarget>false</includeTarget> 
                     <includes> 
                         <include>${project.build.directory}/${project.build.finalName}.jar</include> 
